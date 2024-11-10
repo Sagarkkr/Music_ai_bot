@@ -1,0 +1,6 @@
+test.py
+test.ipynb
+.vscode
+logs/
+
+*.pyc
